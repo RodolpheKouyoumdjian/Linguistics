@@ -1,0 +1,2 @@
+### Copy paste in terminal ###
+pip3 install googletrans==3.1.0a0 requests rdflib rdflib_sqlalchemy pandas
